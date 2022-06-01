@@ -66,9 +66,9 @@
 
 <a href = "https://www.linkedin.com/in/developer-junaid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/developerjunaid/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/developerjunaidqureshi/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<!-- <a href = "https://www.fiverr.com/developerjunaid/"><img src="https://img.icons8.com/color/48/Upwork.png"/></a> -->
+<a href = "https://www.instagram.com/developerjunaid/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/skype-200-721970.png"/></a>
+<a href = "https://www.facebook.com/developerjunaidqureshi/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/slack-1425877-1205068.png"/></a>
+<a href = "https://www.fiverr.com/developerjunaid/"><img  width="70px" src="https://symbols.getvecta.com/stencil_99/31_upwork-icon.ca737969dd.svg"/></a>
 
 
 </p>
