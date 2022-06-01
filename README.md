@@ -64,11 +64,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/developer-junaid/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Junaid084869"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/developerjunaid/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/skype-200-721970.png"/></a>
-<a href = "https://www.facebook.com/developerjunaidqureshi/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/slack-1425877-1205068.png"/></a>
-<a href = "https://www.fiverr.com/developerjunaid/"><img  width="70px" src="https://symbols.getvecta.com/stencil_99/31_upwork-icon.ca737969dd.svg"/></a>
+<a href = "https://www.linkedin.com/in/khuram-haseeb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "skype:live:khuramhaseeb1150" /><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<a href = "skype:live:khuramhaseeb1150/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/skype-200-721970.png"/></a>
+<a href = "https://app.slack.com/client/T02J391F0UE/D033DA58GP6/user_profile/U02JNJWTHC1/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/slack-1425877-1205068.png"/></a>
+<a href = "https://www.upwork.com/freelancers/khuramhaseeb/"><img  width="70px" src="https://symbols.getvecta.com/stencil_99/31_upwork-icon.ca737969dd.svg"/></a>
 
 
 </p>
