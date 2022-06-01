@@ -2,7 +2,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./final.jpg" height="100px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAFCXiekmTU/54Y00SDOG1nxG2YzLG1-Ig/edit?utm_content=DAFCXiekmTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="175px"/></a> -->
 
-<!-- <a href="#"> <img  src="https://www.canva.com/design/DAFCXiekmTU/EIZSe48FFSeq3U1Cl9y9Fw/view?utm_content=DAFCXiekmTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/></a> -->
+<!-- <a href="#"> <img  src="https://www.awesomescreenshot.com/image/28086523?key=7b1155abadd9df38282aa02cc0202a4e"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
@@ -65,7 +65,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/khuram-haseeb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "skype:live:khuramhaseeb1150" /><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <a href = "skype:live:khuramhaseeb1150/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/skype-200-721970.png"/></a>
 <a href = "https://app.slack.com/client/T02J391F0UE/D033DA58GP6/user_profile/U02JNJWTHC1/"><img width="50px" src="https://cdn.iconscout.com/icon/free/png-64/slack-1425877-1205068.png"/></a>
 <a href = "https://www.upwork.com/freelancers/khuramhaseeb/"><img  width="70px" src="https://symbols.getvecta.com/stencil_99/31_upwork-icon.ca737969dd.svg"/></a>
