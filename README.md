@@ -1,8 +1,8 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./final.jpg" height="100px"/></a> -->
-<!-- <a href="#"><img width="100%" height="auto" src="https://simplabs.com/assets/images/posts/2021-05-26-keeping-a-clean-git-history/illustration-a40c9543b15297efda375329d5ee380d.svg" height="175px"/></a> -->
+<!-- <a href="#"><img width="100%" height="auto" src="https://www.canva.com/design/DAFCXiekmTU/54Y00SDOG1nxG2YzLG1-Ig/edit?utm_content=DAFCXiekmTU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="175px"/></a> -->
 
-<a href="#"> <img  src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg"/></a>
+<!-- <a href="#"> <img  src="https://www.canva.com/design/DAFCXiekmTU/EIZSe48FFSeq3U1Cl9y9Fw/view?utm_content=DAFCXiekmTU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="http://handboofixk.datalad.org/en/latest/_images/gitidentity.svg" height="175px"/></a> -->
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
