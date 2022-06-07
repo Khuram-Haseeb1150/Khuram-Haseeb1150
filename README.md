@@ -14,7 +14,7 @@
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
-- 🎓 Graduated in BS- Information Technology with **Award Winning FYP**
+- 🎓 Graduated in BS- Software Engineer with **Award Winning FYP**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://khuramhaseeb.netlify.app/)**
 - ⭐ Top Rated Seller on Upwork
 - 🏆 Completed more than 20 projects with International clients with 5-star ratings and reviews **([Upwork Account](https://www.upwork.com/freelancers/khuramhaseeb))**
