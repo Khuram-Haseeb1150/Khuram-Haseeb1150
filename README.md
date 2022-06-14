@@ -7,7 +7,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khuram Haseeb</h1>
-<h3 align="center">I'm a passionate Full Stack Developer and Upwork Top Rated Seller from Pakistan</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and Independent Freelancer  from Pakistan</h3>
 
 
 ## 🙋‍♂️ About Me
